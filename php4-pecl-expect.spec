@@ -3,7 +3,7 @@
 %define		_sysconfdir	/etc/php4
 %define		extensionsdir	%(php-config --extension-dir 2>/dev/null)
 Summary:	%{_modname} - PHP extension for expect library
-Summary(pl.UTF-8):   %{_modname} - rozszerzenie PHP dla biblioteki expect
+Summary(pl.UTF-8):	%{_modname} - rozszerzenie PHP dla biblioteki expect
 Name:		php4-pecl-%{_modname}
 Version:	0.2.1
 Release:	1
